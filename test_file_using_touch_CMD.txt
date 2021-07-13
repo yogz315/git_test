@@ -1,0 +1,10 @@
+This file was created to learn how to use the touch command on the Linux terminal.  
+Also, in the process I just learned how to open a terminal editor to modify contents in
+a text file. 
+
+This editor is called GNU nano, but can be calle din the terminal window by using:
+
+editor fileName.extension
+
+example:
+editor README.txt
